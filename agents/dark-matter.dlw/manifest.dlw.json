@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Dark Matter",
+  "universe": "COS · Dark Matter (ouranos)",
+  "emergence": "ethereal",
+  "moniker": "⟦Dark Matter:COS:ce5eae⟧",
+  "carbon": "dark-matter.carbon.tiff (TIFF)",
+  "silicon": "dark-matter.silicon.png (PNG)",
+  "seal_sha256": "0ca8529ebd00cd93d67db9619410ef8972a3c838e924e512e6abd4283d0656fe",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

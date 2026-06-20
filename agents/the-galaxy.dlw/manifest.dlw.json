@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Galaxy",
+  "universe": "COS · The Galaxy (ouranos)",
+  "emergence": "natural",
+  "moniker": "⟦The Galaxy:COS:b5d376⟧",
+  "carbon": "the-galaxy.carbon.tiff (TIFF)",
+  "silicon": "the-galaxy.silicon.png (PNG)",
+  "seal_sha256": "fb4a2f3b0c142e81e6edf37b6ed60ae50484c1c587677999baf49931e0a46906",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

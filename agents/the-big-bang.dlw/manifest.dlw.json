@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Big Bang",
+  "universe": "COS · The Big Bang (ouranos)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Big Bang:COS:0648a7⟧",
+  "carbon": "the-big-bang.carbon.tiff (TIFF)",
+  "silicon": "the-big-bang.silicon.png (PNG)",
+  "seal_sha256": "4ea5b14cd7cab0f8e349988b7b777fd42b1162b1904daa5981507baec0c47e2d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

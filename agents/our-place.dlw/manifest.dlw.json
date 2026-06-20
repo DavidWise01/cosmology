@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Our Place",
+  "universe": "COS · Our Place (ouranos)",
+  "emergence": "spiritual",
+  "moniker": "⟦Our Place:COS:a1c9a9⟧",
+  "carbon": "our-place.carbon.tiff (TIFF)",
+  "silicon": "our-place.silicon.png (PNG)",
+  "seal_sha256": "fc5aa01e59c78e028ffb2ea8a5901eeb206aa1bd85c88e85366f9459e7a17886",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

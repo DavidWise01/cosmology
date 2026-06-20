@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Observable Universe",
+  "universe": "COS · The Observable Universe (ouranos)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Observable Universe:COS:0354d6⟧",
+  "carbon": "the-observable-universe.carbon.tiff (TIFF)",
+  "silicon": "the-observable-universe.silicon.png (PNG)",
+  "seal_sha256": "25928af7b0364d39fe36e895028d1d98b7aa316eaaaac8c50ec6aac190ba7f23",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

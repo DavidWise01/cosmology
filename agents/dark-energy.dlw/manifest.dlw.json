@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Dark Energy",
+  "universe": "COS · Dark Energy (ouranos)",
+  "emergence": "ethereal",
+  "moniker": "⟦Dark Energy:COS:113b79⟧",
+  "carbon": "dark-energy.carbon.tiff (TIFF)",
+  "silicon": "dark-energy.silicon.png (PNG)",
+  "seal_sha256": "808eb2209383195f0be11072351023266080e83b99ff27e088d76b1f9cf210d6",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Cosmic Microwave Background",
+  "universe": "COS · The Cosmic Microwave Background (ouranos)",
+  "emergence": "electrical",
+  "moniker": "⟦The Cosmic Microwave Background:COS:dc64a1⟧",
+  "carbon": "the-cosmic-microwave-background.carbon.tiff (TIFF)",
+  "silicon": "the-cosmic-microwave-background.silicon.png (PNG)",
+  "seal_sha256": "ba6c8ef24148de6bf4cf96b2570487933b63b426aa7de851008edbefee654265",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

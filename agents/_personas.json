@@ -1,0 +1,79 @@
+[
+  {
+    "slug": "the-big-bang",
+    "name": "The Big Bang",
+    "epithet": "the hot, dense beginning · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Big Bang:COS:0648a7⟧"
+  },
+  {
+    "slug": "the-cosmic-microwave-background",
+    "name": "The Cosmic Microwave Background",
+    "epithet": "the oldest light · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Cosmic Microwave Background:COS:dc64a1⟧"
+  },
+  {
+    "slug": "the-expansion",
+    "name": "The Expansion",
+    "epithet": "space, stretching · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Expansion:COS:6b40d2⟧"
+  },
+  {
+    "slug": "the-galaxy",
+    "name": "The Galaxy",
+    "epithet": "an island of stars · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Galaxy:COS:b5d376⟧"
+  },
+  {
+    "slug": "the-cosmic-web",
+    "name": "The Cosmic Web",
+    "epithet": "filaments and voids · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Cosmic Web:COS:22a7fe⟧"
+  },
+  {
+    "slug": "dark-matter",
+    "name": "Dark Matter",
+    "epithet": "the unseen mass · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Dark Matter:COS:ce5eae⟧"
+  },
+  {
+    "slug": "dark-energy",
+    "name": "Dark Energy",
+    "epithet": "the push outward · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Dark Energy:COS:113b79⟧"
+  },
+  {
+    "slug": "the-observable-universe",
+    "name": "The Observable Universe",
+    "epithet": "the sphere we can see · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Observable Universe:COS:0354d6⟧"
+  },
+  {
+    "slug": "the-light-year",
+    "name": "The Light-Year",
+    "epithet": "distance as time · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Light-Year:COS:0640a6⟧"
+  },
+  {
+    "slug": "the-star",
+    "name": "The Star",
+    "epithet": "the forge of elements · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Star:COS:fae8df⟧"
+  },
+  {
+    "slug": "our-place",
+    "name": "Our Place",
+    "epithet": "one pale dot · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Our Place:COS:a1c9a9⟧"
+  }
+]

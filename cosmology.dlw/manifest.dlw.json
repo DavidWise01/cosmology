@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "COSMOLOGY",
+  "universe": "COS · COSMOLOGY (ouranos · the heavens)",
+  "emergence": "",
+  "moniker": "⟦COSMOLOGY:COS:507b01⟧",
+  "carbon": "cosmology.carbon.tiff (TIFF)",
+  "silicon": "cosmology.silicon.png (PNG)",
+  "seal_sha256": "a65a71ccb6f5dc3df774ae4a458c349a3643c8728a505549f2a4bcbc80e96f2f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
